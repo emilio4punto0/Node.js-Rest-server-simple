@@ -1,0 +1,17 @@
+{
+  "name": "crudmongo_server",
+  "version": "1.0.0",
+  "description": "Mongoose and Node.js maintain server and Crud utilities",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emilio Padilla",
+  "license": "ISC"
+}
